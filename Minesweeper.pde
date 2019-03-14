@@ -60,14 +60,14 @@ public void displayLosingMessage()
     //your code here
     fill(255);
     textSize(20);
-    text("TRY AGAIN", 250, 620);
+    text("TRY AGAIN", 290, 650);
 }
 public void displayWinningMessage()
 {
     //your code here
     fill(255);
     textSize(20);
-    text("YAY NICE JOB", 250, 620);
+    text("YAY NICE JOB", 290, 650);
 }
 
 public class MSButton
